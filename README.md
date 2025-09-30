@@ -22,7 +22,8 @@ Tor was originally developed by the U.S. Navy to secure government communication
 
 #### a. Install TOR browser and access TOR network (.onion addresses). DONE 
 
-##### b. Browse TOR network, find, take screenshots and comment. DONE 
-VirtualBox_smarika_30_09_2025_12_45_43
+##### b. Browse TOR network, find, take screenshots and comment. DOONE
+<img width="1280" height="800" alt="VirtualBox_smarika_30_09_2025_12_45_43" src="https://github.com/user-attachments/assets/01e2abeb-9d8a-40f5-a01d-55f378b8d57d" />
+
 
 
